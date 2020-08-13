@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Software"
+    url: /software/
+
+
+  - title: "Teaching"
+    url: /teaching/
+    
+        
+  - title: "Join Us"
+    url: /position/
+    
+#  - title: "CV"
+#    url: /cv/
+
+  - title: "Contact"
+    url: /contact/
+
