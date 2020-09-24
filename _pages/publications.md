@@ -21,7 +21,7 @@ A full list of publications can be found at
 -->
 **<center>2020</center>**
 
-1. __Zhang YD__, Naughton BP,  Bondell HD,  Reich BJ (2020). Bayesian Regression Using a Prior on the Model Fit: The R2-D2 Shrinkage Prior, ***Journal of the American Statistical Association***, DOI: 10.1080/01621459.2020.1825449. [[pdf]](https://www-tandfonline-com.eproxy.lib.hku.hk/doi/full/10.1080/01621459.2020.1825449?journalCode=uasa20)[[code]](https://github.com/yandorazhang/R2D2)
+1. __Zhang YD__, Naughton BP,  Bondell HD,  Reich BJ (2020). Bayesian Regression Using a Prior on the Model Fit: The R2-D2 Shrinkage Prior, ***Journal of the American Statistical Association***, DOI: 10.1080/01621459.2020.1825449. [[pdf]](https://doi.org/10.1080/01621459.2020.1825449)[[code]](https://github.com/yandorazhang/R2D2)
 
 
 
