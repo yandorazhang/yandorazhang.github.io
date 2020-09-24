@@ -12,18 +12,17 @@ A full list of publications can be found at
 ($$^*$$First authors with equal contribution;     $$^\#$$senior authors with equal contribution.)
 
 
-
-**<center>Preprints</center>**
-
-
-1. **Zhang Y**, Reich BJ, Bondell HD. High dimensional linear regression via the R2-D2 shrinkage prior. *arXiv preprint arXiv:1609.00046. 2016 Aug 31.* [[pdf]](https://arxiv.org/abs/1609.00046) [[code]](https://github.com/yandorazhang/R2D2)
 <!---
-dfd
+**<center>Preprints</center>**
 -->
+
 **<center>Publications</center>** 
 <!---
 -->
 **<center>2020</center>**
+
+1. __Zhang YD__, Naughton BP,  Bondell HD &  Reich BJ (2020). Bayesian Regression Using a Prior on the Model Fit: The R2-D2 Shrinkage Prior, ***Journal of the American Statistical Association***, DOI: 10.1080/01621459.2020.1825449[[pdf]](https://www-tandfonline-com.eproxy.lib.hku.hk/doi/full/10.1080/01621459.2020.1825449?journalCode=uasa20)[[code]](https://github.com/yandorazhang/R2D2)
+
 
 
 1.  __Zhang  YD__,   Hurson AN, Zhang H, ...,  Chatterjee N$$^\#$$,  Garcia-Closas M$$^\#$$.   
