@@ -26,7 +26,7 @@ A full list of publications can be found at
 1. Meisner A, Kundu P, **Zhang YD**, Lan LV, Kim S, Ghandwani D, Choudhury PP, Berndt SI, Freedman ND, Garcia-Closas M, Chatterjee N. (2020). Combined Utility of 25 Disease and Risk Factor Polygenic Risk Scores for Stratifying Risk of All-Cause Mortality. The American Journal of Human Genetics, 107(3), 418-431. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0002929720302329)
 
 
-1.  __Zhang  YD__,   Hurson AN, Zhang H, ...,  Chatterjee N$$^&dagger$$,  Garcia-Closas M$$^\#$$.   
+1.  __Zhang  YD__,   Hurson AN, Zhang H, ...,  Chatterjee N^&dagger,  Garcia-Closas M$$^\#$$.   
 Assessment of polygenic architecture and risk prediction based on common variants across fourteen cancers. **_Nature communications._** 2020 Jul 3;11(1):1-3. [[pdf]](https://www.nature.com/articles/s41467-020-16483-3)
 [[code]](https://github.com/yandorazhang/CancerEffectSize)
 
