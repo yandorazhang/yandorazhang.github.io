@@ -23,7 +23,7 @@ A full list of publications can be found at
 
 1. __Zhang YD__, Naughton BP,  Bondell HD,  Reich BJ (2020). Bayesian Regression Using a Prior on the Model Fit: The R2-D2 Shrinkage Prior, ***Journal of the American Statistical Association***, DOI: 10.1080/01621459.2020.1825449. [[pdf]](https://doi.org/10.1080/01621459.2020.1825449)[[code]](https://github.com/yandorazhang/R2D2)
 
-1. Meisner A, Kundu P, **Zhang YD**, Lan LV, Kim S, Ghandwani D, Choudhury PP, Berndt SI, Freedman ND, Garcia-Closas M, Chatterjee N. (2020). Combined Utility of 25 Disease and Risk Factor Polygenic Risk Scores for Stratifying Risk of All-Cause Mortality. The American Journal of Human Genetics, 107(3), 418-431. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0002929720302329)
+1. Meisner A, Kundu P, **Zhang YD**, Lan LV, Kim S, Ghandwani D, Choudhury PP, Berndt SI, Freedman ND, Garcia-Closas M, Chatterjee N. (2020). Combined Utility of 25 Disease and Risk Factor Polygenic Risk Scores for Stratifying Risk of All-Cause Mortality. ***The American Journal of Human Genetics***, 107(3), 418-431. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0002929720302329)
 
 
 1.  __Zhang  YD__,   Hurson AN, Zhang H, ...,  Chatterjee N$$^\dagger$$,  Garcia-Closas M$$^\dagger$$.   
