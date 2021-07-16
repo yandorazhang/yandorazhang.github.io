@@ -24,8 +24,7 @@ Applicants are expected to have Bachelor degree   in statistics, computer scienc
 
 Applications are invited for appointment as postdoctoral fellow in Department of Statistics & Actuarial Science of HKU,  to commence as soon as possible for one year, with the possibility of renewal. 
 Applicants should have a Ph.D.  degree   in a quantitative field (including but not limited to statistics, biostatistics, computer science, bioinformatics, and computational biology). 
-For more information,  please send an email to <doraz@hku.hk>. 
-
+For more information,  please check [https://jobs.hku.hk/cw/en/job/504704/postdoctoral-fellow-in-biostatistics](https://jobs.hku.hk/cw/en/job/504704/postdoctoral-fellow-in-biostatistics). 
 
  
 
