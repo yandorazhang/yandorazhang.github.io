@@ -13,10 +13,10 @@ Applicants should have a Ph.D.  degree   in a quantitative field (including but 
 For more information,  please send email to <doraz@hku.hk>. 
 
 
-
+<!---
 ### Visiting Scholar
 We also welcome short- or long-term visiting scholars. Just send email to <doraz@hku.hk>. 
-
+-->
 
 
 ### Undergraduate Student RA 
