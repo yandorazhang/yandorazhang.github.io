@@ -33,7 +33,7 @@ A full list of publications can be found at
 
 
 1.  __Zhang  YD__,   Hurson AN, Zhang H, ...,  Chatterjee N$$^\dagger$$,  Garcia-Closas M$$^\dagger$$.   
-Assessment of polygenic architecture and risk prediction based on common variants across fourteen cancers. **_Nature communications._** 2020 Jul 3;11(1):1-3. [[link]](https://www.nature.com/articles/s41467-020-16483-3)
+Assessment of polygenic architecture and risk prediction based on common variants across fourteen cancers. _Nature communications._ 2020 Jul 3;11(1):1-3. [[link]](https://www.nature.com/articles/s41467-020-16483-3)
 [[code]](https://github.com/yandorazhang/CancerEffectSize)
 
 2. Tubbs JD, **Zhang YD**, Sham PC. Intermediate confounding in trio relationships: The importance of complete data in effect size estimation. _Genetic Epidemiology_. 2020 Jun;44(4):395-9. [[link]](https://onlinelibrary.wiley.com/doi/abs/10.1002/gepi.22294)
