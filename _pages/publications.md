@@ -14,13 +14,13 @@ A full list of publications can be found at
 
 <!---
 **<center>Preprints</center>**
--->
-
 **<center>Publications</center>** 
-<!---
 -->
 
-**<center>2022</center>**
+
+
+**<center>&nbsp;&nbsp;&nbsp;&nbsp;
+2022</center>**
 
 1. Lai D, Cai Y, Chan TH, Gan D, Hurson AN, __Zhang YD__. How to organise travel restrictions in the new future: lessons from the COVID-19 response in Hong Kong and Singapore. _BMJ Global Health_. 2022 Feb 1;7(2):e006975. [[link]](https://gh.bmj.com/content/7/2/e006975.abstract)
 <!---
