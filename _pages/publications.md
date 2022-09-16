@@ -22,6 +22,17 @@ A full list of publications can be found at
 **<center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 2022</center>**
 
+
+1. Tian P, Chan TH, Wang Y-F, Yang W, Yin G, __Zhang YD__.  Multiethnic polygenic risk prediction in diverse populations through transfer learning.  _Frontiers in Genetics_, 19 August 2022
+Sec. Statistical Genetics and Methodology. 
+[[link]](https://www.frontiersin.org/articles/10.3389/fgene.2022.906965/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Genetics&id=906965) [[code]](https://github.com/mxxptian/TLMulti)
+
+1. Lai D, __Zhang YD__, Lu J. Venous Thromboembolism following Two Doses of COVID-19 mRNA Vaccines in the US Population, 2020–2022. _Vaccines_. 2022; 10(8):1317. 
+[[link]](https://www.mdpi.com/2076-393X/10/8/1317)
+
+
+
+
 1. Lai D, Cai Y, Chan TH, Gan D, Hurson AN, __Zhang YD__. How to organise travel restrictions in the new future: lessons from the COVID-19 response in Hong Kong and Singapore. _BMJ Global Health_. 2022 Feb 1;7(2):e006975. [[link]](https://gh.bmj.com/content/7/2/e006975.abstract)
 <!---
 -->
@@ -30,6 +41,8 @@ A full list of publications can be found at
 1. __Zhang YD__, Naughton BP, Bondell HD, Reich BJ. Bayesian regression using a prior on the model fit: The R2-D2 shrinkage prior. _Journal of the American Statistical Association_. 2020 Nov 5:1-3. [[link]](https://doi.org/10.1080/01621459.2020.1825449)[[code]](https://github.com/yandorazhang/R2D2)
 
 1. Meisner A, Kundu P, __Zhang YD__, Lan LV, Kim S, Ghandwani D, Choudhury PP, Berndt SI, Freedman ND, Garcia-Closas M, Chatterjee N. Combined utility of 25 disease and risk factor polygenic risk scores for stratifying risk of all-cause mortality. _The American Journal of Human Genetics_. 2020 Sep 3;107(3):418-31. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0002929720302329)
+
+1. Hong X, Zhang B, Liang L, __Zhang Y__, Ji Y, Wang G, ... & Wang X.   Postpartum plasma metabolomic profile among women with preeclampsia and preterm delivery: implications for long-term health. _BMC medicine_. 2020 18(1), 1-12.  
 
 
 1.  __Zhang  YD__,   Hurson AN, Zhang H, ...,  Chatterjee N$$^\dagger$$,  Garcia-Closas M$$^\dagger$$.   

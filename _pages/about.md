@@ -29,4 +29,4 @@ My research interests include statistical genetics, biostatistics,  bioinformati
 
 
 
-[**Curriculum Vitae [PDF]**](http://yandorazhang.github.io/files/dora_cv.pdf)
+[**Curriculum Vitae [PDF]**](http://yandorazhang.github.io/files/ZhangYan_updating.pdf)
