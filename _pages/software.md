@@ -5,10 +5,16 @@ permalink: /software/
 author_profile: true
 ---
 
-[**My GitHub**](https://github.com/yandorazhang)
 
 
-* [**GENESIS**](https://github.com/yandorazhang/GENESIS): GENetic Effect-Size distribution Inference from Summary-level data. 
+* [**GR2D2**] (https://github.com/RavenGan/GR2D2):  Graphical R2D2 estimator   for the precision matrices
+
+
+* [**TLMulti**] (https://github.com/mxxptian/TLMulti): Multiethnic polygenic risk prediction in diverse populations through transfer learning
+
+
+
+* [**GENESIS**](https://github.com/yandorazhang/GENESIS): GENetic Effect-Size distribution Inference from Summary-level data.  
 
 * [**CancerEffectSize**](https://github.com/yandorazhang/CancerEffectSize): Assessment of polygenic architecture and risk prediction based on common variants for cancers.  
 
