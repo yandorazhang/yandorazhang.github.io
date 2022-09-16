@@ -7,10 +7,10 @@ author_profile: true
 
 
 
-* [**GR2D2**] (https://github.com/RavenGan/GR2D2):  Graphical R2D2 estimator   for the precision matrices
+* [**GR2D2**](https://github.com/RavenGan/GR2D2):  Graphical R2D2 estimator   for the precision matrices
 
 
-* [**TLMulti**] (https://github.com/mxxptian/TLMulti): Multiethnic polygenic risk prediction in diverse populations through transfer learning
+* [**TLMulti**](https://github.com/mxxptian/TLMulti): Multiethnic polygenic risk prediction in diverse populations through transfer learning
 
 
 
