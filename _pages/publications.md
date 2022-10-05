@@ -23,9 +23,16 @@ A full list of publications can be found at
 2022</center>**
 
 
+1. Gan D, Yin G, __Zhang YD__. The GR2D2 estimator for the precision matrices, _Briefings in Bioinformatics_, 2022; bbac426.
+[[link]](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbac426/6731716) [[code]](https://github.com/RavenGan/GR2D2)
+
+
 1. Tian P, Chan TH, Wang Y-F, Yang W, Yin G, __Zhang YD__.  Multiethnic polygenic risk prediction in diverse populations through transfer learning.  _Frontiers in Genetics_, 19 August 2022
 Sec. Statistical Genetics and Methodology. 
 [[link]](https://www.frontiersin.org/articles/10.3389/fgene.2022.906965/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Genetics&id=906965) [[code]](https://github.com/mxxptian/TLMulti)
+
+
+
 
 1. Lai D, __Zhang YD__, Lu J. Venous Thromboembolism following Two Doses of COVID-19 mRNA Vaccines in the US Population, 2020–2022. _Vaccines_. 2022; 10(8):1317. 
 [[link]](https://www.mdpi.com/2076-393X/10/8/1317)
