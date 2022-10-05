@@ -32,6 +32,15 @@ Sec. Statistical Genetics and Methodology.
 [[link]](https://www.frontiersin.org/articles/10.3389/fgene.2022.906965/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Genetics&id=906965) [[code]](https://github.com/mxxptian/TLMulti)
 
 
+1. Su W, He B, __Zhang YD__, Yin G. 
+C-index regression for recurrent event data,
+_Contemporary Clinical Trials_,
+Volume 118,
+2022,
+106787,
+ISSN 1551-7144.
+[[link]](https://www.sciencedirect.com/science/article/pii/S1551714422001136)
+
 
 
 1. Lai D, __Zhang YD__, Lu J. Venous Thromboembolism following Two Doses of COVID-19 mRNA Vaccines in the US Population, 2020–2022. _Vaccines_. 2022; 10(8):1317. 
