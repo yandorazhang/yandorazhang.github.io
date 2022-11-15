@@ -22,6 +22,14 @@ A full list of publications can be found at
 **<center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 2022</center>**
 
+1. Tian P, Hu Y, Liu Z$$^\dagger$$,  __Zhang YD$$^\dagger$$__. Grace-AKO: a novel and stable knockoff filter for variable selection incorporating gene network structures. _BMC Bioinformatics_ 23, 478 (2022). [[link]](https://doi.org/10.1186/s12859-022-05016-y)[[code]](https://github.com/mxxptian/GraceAKO)
+
+
+
+1. Wang H, Wang X, Li T, Lai D,  __Zhang YD__.  Adverse effect signature extraction and prediction for drugs treating COVID-19. _Front. Genet._ 13:1019940. doi: 10.3389/fgene.2022.1019940 (2022) [[link]](https://doi.org/10.3389/fgene.2022.1019940)
+
+
+
 
 1. Gan D, Yin G, __Zhang YD__. The GR2D2 estimator for the precision matrices, _Briefings in Bioinformatics_, 2022; bbac426.
 [[link]](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbac426/6731716) [[code]](https://github.com/RavenGan/GR2D2)
