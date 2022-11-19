@@ -32,6 +32,6 @@ My research interests include statistical genetics, biostatistics,  bioinformati
 
 [**Curriculum Vitae [PDF]**](http://yandorazhang.github.io/files/ZhangYan_updating.pdf)
 
-
+<!--
 [**HKU Scholars Hub**](https://repository.hku.hk/cris/rp/rp02590)
-
+-->
