@@ -20,7 +20,13 @@ A full list of publications can be found at
 
 
 **<center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-2022</center>**
+2023</center>**
+
+1. Liu Z$$^*$$, Qin Y$$^*$$, Wu T,   Tubbs J, Baum L, Mak T, Li M$$^\dagger$$, __Zhang YD$$^\dagger$$__, Sham PC$$^\dagger$$. 
+ Reciprocal causation mixture model for robust Mendelian randomization analysis using genome-scale summary data. Nat Commun 14, 1131 (2023). [[link]](https://doi.org/10.1038/s41467-023-36490-4)
+<!---
+-->
+**<center>2022</center>**
 
 1. Tian P, Hu Y, Liu Z$$^\dagger$$,  __Zhang YD$$^\dagger$$__. Grace-AKO: a novel and stable knockoff filter for variable selection incorporating gene network structures. _BMC Bioinformatics_ 23, 478 (2022). [[link]](https://doi.org/10.1186/s12859-022-05016-y)[[code]](https://github.com/mxxptian/GraceAKO)
 
