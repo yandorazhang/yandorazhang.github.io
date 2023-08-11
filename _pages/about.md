@@ -17,16 +17,19 @@ redirect_from:
 
 
 
-I am currently an  Assistant Professor at [Department of Statistics & Actuarial Science](https://saasweb.hku.hk/), and 
- [Centre for PanorOmic Sciences](https://cpos.hku.hk/), 
- [The University of Hong Kong](https://www.hku.hk/).  
+I am currently an  Assistant Professor at [Department of Statistics & Actuarial Science](https://saasweb.hku.hk/),  [The University of Hong Kong](https://www.hku.hk/). 
+<!--
+and 
+ [Centre for PanorOmic Sciences](https://cpos.hku.hk/).  
+ -->
  
  
  
-I received  my  B.S. in Statistics from  [Nankai University](https://www.nankai.edu.cn/) in 2011, and  Ph.D. in Statistics from [North Carolina State University](http://www.stat.ncsu.edu)  in 2016. Then I worked as a postdoctoral fellow  at [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/), 
-  [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/) during 2016-2019. 
+I received  my  B.S. in Statistics from  [Nankai University](https://www.nankai.edu.cn/) in 2011, and  Ph.D. in Statistics from [North Carolina State University](http://www.stat.ncsu.edu)  in 2016. After that, I worked as a postdoctoral fellow  at [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/), 
+  [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/) during 2016-2019.
+   
 
-My research interests include statistical genetics, biostatistics,  bioinformatics, health informatics, cancer genomics, public health, etc. 
+My research interests include statistical genetics, biostatistics,  bioinformatics, health informatics,  public health, etc. 
 
 
 
