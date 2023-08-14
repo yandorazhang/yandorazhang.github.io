@@ -20,10 +20,24 @@ A full list of publications can be found at
 
 
 **<center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Preprint</center>**
+
+
+1. Li X,  Sham P,  __Zhang YD.__  A novel Bayesian fine-mapping model using a continuous global-local shrinkage prior with applications in prostate cancer analysis. [[link]](https://www.medrxiv.org/content/10.1101/2023.08.04.23293456v1)
+<!---
+-->
+**<center>2023</center>**
+
+
+<!---
+**<center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 2023</center>**
+-->
+
 
 1.  Wang X,   Wang H,   Yin G,   __Zhang YD.__ 
 	Network-based drug repurposing for the treatment of COVID-19 patients in different clinical stages.   _Heliyon,_ 2023;9(3): e14059. [[link]](https://doi.org/10.1016/j.heliyon.2023.e14059)
+
 
 1. Liu Z$$^*$$, Qin Y$$^*$$, Wu T,   Tubbs J, Baum L, Mak T, Li M$$^\dagger$$, __Zhang YD$$^\dagger$$__, Sham PC$$^\dagger$$. 
  Reciprocal causation mixture model for robust Mendelian randomization analysis using genome-scale summary data. _Nat Commun,_ 14, 1131 (2023). [[link]](https://doi.org/10.1038/s41467-023-36490-4)
