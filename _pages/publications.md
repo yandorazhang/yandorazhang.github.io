@@ -28,13 +28,6 @@ Preprint</center>**
 -->
 **<center>2023</center>**
 
-
-<!---
-**<center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-2023</center>**
--->
-
-
 1.  Wang X,   Wang H,   Yin G,   __Zhang YD.__ 
 	Network-based drug repurposing for the treatment of COVID-19 patients in different clinical stages.   _Heliyon,_ 2023;9(3): e14059. [[link]](https://doi.org/10.1016/j.heliyon.2023.e14059)
 
