@@ -9,7 +9,7 @@ author_profile: true
 A full list of publications can be found at 
 [**Google Scholar**](https://scholar.google.com/citations?user=BQJDI9YAAAAJ&hl=en).
 
-($$^*$$First authors with equal contribution;     $$^\dagger$$senior authors with equal contribution.)
+($$^*$$First authors with equal contribution;     $$^\dagger$$senior authors with equal contribution or serving as co-corresponding authors.)
 
 
 <!---
