@@ -20,10 +20,10 @@ A full list of publications can be found at
 
 
 **<center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Preprint</center>**
+2024</center>**
 
 
-1. Li X,  Sham P,  __Zhang YD.__  A novel Bayesian fine-mapping model using a continuous global-local shrinkage prior with applications in prostate cancer analysis. [[link]](https://www.medrxiv.org/content/10.1101/2023.08.04.23293456v1)
+1. Li X,  Sham P,  __Zhang YD.__  (2024) A Bayesian fine-mapping model using a continuous global-local shrinkage prior with applications in prostate cancer analysis. _The American Journal of Human Genetics._ [[link]](https://doi.org/10.1016/j.ajhg.2023.12.007)
 <!---
 -->
 **<center>2023</center>**

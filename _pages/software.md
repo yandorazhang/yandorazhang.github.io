@@ -9,6 +9,10 @@ author_profile: true
 The softwares developed by   my supervisees  or me  are listed as follows: 
 
 
+
+* [**h2D2**](https://github.com/xiangli428/h2D2):  A Bayesian fine-mapping model using a continuous global-local shrinkage prior  h2D2 [[paper]](https://doi.org/10.1016/j.ajhg.2023.12.007)
+
+
 * [**GR2D2**](https://github.com/RavenGan/GR2D2):  The GR2D2 estimator for the precision matrices   [[paper]](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbac426/6731716)
 
 
