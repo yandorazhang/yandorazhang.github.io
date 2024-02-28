@@ -22,8 +22,18 @@ A full list of publications can be found at
 **<center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 2024</center>**
 
+1. Xiong Z,  Thach T, __Zhang YD$$^\dagger$$__, Sham PC$$^\dagger$$. 
+Improved estimation of functional enrichment in SNP heritability using feasible generalized least squares,
+_Human Genetics and Genomics Advances_,
+Volume 5, Issue 2,
+2024,
+100272.
+[[link]]
+(https://www.sciencedirect.com/science/article/pii/S2666247724000113)
+[[code]](https://github.com/xzw20046/gldsc)
 
 1. Li X,  Sham P,  __Zhang YD.__  (2024) A Bayesian fine-mapping model using a continuous global-local shrinkage prior with applications in prostate cancer analysis. _The American Journal of Human Genetics._ [[link]](https://doi.org/10.1016/j.ajhg.2023.12.007)
+[[code]](https://github.com/xiangli428/h2D2)
 <!---
 -->
 **<center>2023</center>**
