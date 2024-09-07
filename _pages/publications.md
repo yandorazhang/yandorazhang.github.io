@@ -22,6 +22,9 @@ A full list of publications can be found at
 **<center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 2024</center>**
 
+1. Wang A$$^*$$, Tian P$$^*$$, __Zhang YD.__  (2024) TWAS-GKF: a novel method for causal gene identification in transcriptome-wide association studies with knockoff inference. _Bioinformatics_, Volume 40, Issue 8, August 2024, btae502. [[link]](https://doi.org/10.1093/bioinformatics/btae502)
+[[code]](https://github.com/AnqiWang2021/TWAS.GKF)
+
 1.  Lai D,  Lim D,  Lu J,  Wang H,  Huang T,  __Zhang YD.__  (2024) Risk of myocarditis after three doses of COVID-19 mRNA vaccines in the United States, 2020–2022: A self-controlled case series study. _J Evid Based Med. 2024;17:65–77._
 [[link]](http://dx.doi.org/10.1111/jebm.12595) 
 

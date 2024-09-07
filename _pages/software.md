@@ -9,6 +9,8 @@ author_profile: true
 The softwares developed by   my supervisees  or me  are listed as follows: 
 
 
+* [**TWAS.GKF**](https://github.com/AnqiWang2021/TWAS.GKF):  TWAS-GKF: a novel method for causal gene identification in transcriptome-wide association studies with knockoff inference [[paper]](https://doi.org/10.1093/bioinformatics/btae502)
+
 
 * [**h2D2**](https://github.com/xiangli428/h2D2):  A Bayesian fine-mapping model using a continuous global-local shrinkage prior  h2D2 [[paper]](https://doi.org/10.1016/j.ajhg.2023.12.007)
 
