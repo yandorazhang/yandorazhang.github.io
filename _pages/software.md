@@ -9,6 +9,10 @@ author_profile: true
 The softwares developed by   my supervisees  or me  are listed as follows: 
 
 
+* [**MAAT**](https://github.com/wanghanmath/MAAT):  MAAT: a new nonparametric Bayesian framework for incorporating multiple functional annotations in transcriptome-wide association studies
+ [[paper]](https://doi.org/10.1186/s13059-025-03485-x)
+
+
 * [**TWAS.GKF**](https://github.com/AnqiWang2021/TWAS.GKF):  TWAS-GKF: a novel method for causal gene identification in transcriptome-wide association studies with knockoff inference [[paper]](https://doi.org/10.1093/bioinformatics/btae502)
 
 

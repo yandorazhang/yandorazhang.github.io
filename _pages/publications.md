@@ -20,12 +20,19 @@ A full list of publications can be found at
 
 
 **<center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-2024</center>**
+2025</center>**
+
+
+1. Wang H, Li X, Li T,  Li Z, Sham PC, __Zhang YD__.   MAAT: a new nonparametric Bayesian framework for incorporating multiple functional annotations in transcriptome-wide association studies. Genome Biology. 2025 Feb 4;26:21. [[link]](https://doi.org/10.1186/s13059-025-03485-x) 
+[[code]](https://github.com/wanghanmath/MAAT)
+<!---
+-->
+**<center>2024</center>**
 
 1. Wang A$$^*$$, Tian P$$^*$$, __Zhang YD.__  (2024) TWAS-GKF: a novel method for causal gene identification in transcriptome-wide association studies with knockoff inference. _Bioinformatics_, Volume 40, Issue 8, August 2024, btae502. [[link]](https://doi.org/10.1093/bioinformatics/btae502)
 [[code]](https://github.com/AnqiWang2021/TWAS.GKF)
 
-1.  Lai D,  Lim D,  Lu J,  Wang H,  Huang T,  __Zhang YD.__  (2024) Risk of myocarditis after three doses of COVID-19 mRNA vaccines in the United States, 2020–2022: A self-controlled case series study. _J Evid Based Med. 2024;17:65–77._
+1.  Lai D,  Lim D,  Lu J,  Wang H,  Huang T,  __Zhang YD.__    Risk of myocarditis after three doses of COVID-19 mRNA vaccines in the United States, 2020–2022: A self-controlled case series study. _J Evid Based Med. 2024;17:65–77._
 [[link]](http://dx.doi.org/10.1111/jebm.12595) 
 
 
@@ -44,7 +51,7 @@ Volume 5, Issue 2,
 -->
 **<center>2023</center>**
 
-1. Wang W, Jin H, __Zhang YD__ and Yin G (2023) Two-dimensional calibration-free odds design for phase I drug-combination trials. _Front. Oncol._ 13:1294258. [[link]](doi: 10.3389/fonc.2023.1294258)
+1. Wang W, Jin H, __Zhang YD__ and Yin G. (2023) Two-dimensional calibration-free odds design for phase I drug-combination trials. _Front. Oncol._ 13:1294258. [[link]](doi: 10.3389/fonc.2023.1294258)
 
 
 
