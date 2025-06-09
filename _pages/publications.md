@@ -51,7 +51,7 @@ Volume 5, Issue 2,
 -->
 **<center>2023</center>**
 
-1. Wang W, Jin H, __Zhang YD__ and Yin G. (2023) Two-dimensional calibration-free odds design for phase I drug-combination trials. _Front. Oncol._ 13:1294258. [[link]](doi: 10.3389/fonc.2023.1294258)
+1. Wang W, Jin H, __Zhang YD__ and Yin G. (2023) Two-dimensional calibration-free odds design for phase I drug-combination trials. _Front. Oncol._ 13:1294258. [[link]](https://doi.org/10.3389/fonc.2023.1294258)
 
 
 

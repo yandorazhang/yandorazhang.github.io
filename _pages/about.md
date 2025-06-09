@@ -17,7 +17,7 @@ redirect_from:
 
 
 
-I am currently an  Assistant Professor at [Department of Statistics & Actuarial Science](https://saasweb.hku.hk/),  [The University of Hong Kong](https://www.hku.hk/). 
+I am currently an  Assistant Professor at [Department of Statistics & Actuarial Science](https://saasweb.hku.hk/), [School of Computing and Data Science](https://www.cds.hku.hk/),  [The University of Hong Kong](https://www.hku.hk/). 
 <!--
 and 
  [Centre for PanorOmic Sciences](https://cpos.hku.hk/).  
