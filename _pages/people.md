@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-## Current Lab Members
+##  Lab Members
 
 ### <u>PhD Students</u>
 3. Yu Yun (2023-present)
@@ -18,7 +18,7 @@ author_profile: true
 
 
 
-## Alumni
+## Lab Alumni
 ($$^*$$First position after leaving the lab)
 
 ### <u>Postdoctoral Fellows</u>
