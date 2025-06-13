@@ -9,7 +9,7 @@ author_profile: true
 
 ## Current Lab Members
 
-### PhD Students
+#### PhD Students
 3. Yu Yun (2023-present)
 1. Xiang Li (2021-present)
 1. Daoyuan Lai (2020-present)
@@ -20,12 +20,12 @@ author_profile: true
 
 ## Alumni
 
-### Postdoctoral Fellows
-| ------------- | ------------- | 
-|   Xin Wang (2021-2023)    |    Associated Professor at Northeastern University, China|
-| Han Wang (2021-2023) | Associate Professor at China Agricultural University | 
+#### Postdoctoral Fellows
+1.  Xin Wang (2021-2023),  Associated Professor at Northeastern University, China
+1. Han Wang (2021-2023), Associate Professor at China Agricultural University 
 
-### PhD Students
+
+#### PhD Students
 
 |   Name    |    First Position|  Thesis Title   |
 | -------------  |-------------      |-------------| 
@@ -35,17 +35,17 @@ author_profile: true
 
 
 
-### Master Students
+#### Master Students
 1. Wenliang Wang (2022-2023)
 1. Hanning Chen (2020-2022)
 
 
-### Undergraduate Students
+#### Undergraduate Students
 1. Dickson Lim (2021-2021)
 1. Tsai Hor  Chan (2020-2021)
 1. Dailin Gan (2020-2021)
 1. Yuxi Cai (2020-2021)
 
-### Other
+#### Other
 1. Baihua He (2020), visiting student from School of Mathematics and Statistics, Wuhan University. 
 1. Xinyue Xu (2025), visiting student from School of Statistics and Data Science, Nankai University
