@@ -10,9 +10,9 @@ author_profile: true
 ##  Lab Members
 
 ### <u>PhD Students</u>
-3. Yu Yun (2023-present)
-1. Xiang Li (2021-present)
-1. Daoyuan Lai (2020-present)
+- Yu Yun (2023-present)
+- Xiang Li (2021-present)
+- Daoyuan Lai (2020-present)
 
 
 
@@ -22,8 +22,8 @@ author_profile: true
 ($$^*$$First position after leaving the lab)
 
 ### <u>Postdoctoral Fellows</u>
-1.  Xin Wang (2021-2023),  Associated Professor at Northeastern University (China)$$^*$$
-1. Han Wang (2021-2023), Associate Professor at China Agricultural University$$^*$$ 
+-  Xin Wang (2021-2023),  Associated Professor at Northeastern University (China)$$^*$$
+-  Han Wang (2021-2023), Associate Professor at China Agricultural University$$^*$$ 
 
 
 ### <u>PhD Students</u>
@@ -37,23 +37,23 @@ author_profile: true
 
 
 
-1. Peixin Tian (2020-2024, co-supervised with Dr. Zhonghua Liu), Data scientist at AIVI$$^*$$  
-2. Anqi Wang (2020-2024, co-supervised with Dr. Zhonghua Liu), Postdoc at Columbia University$$^*$$
+- Peixin Tian (2020-2024, co-supervised with Dr. Zhonghua Liu), Data scientist at AIVI$$^*$$  
+- Anqi Wang (2020-2024, co-supervised with Dr. Zhonghua Liu), Postdoc at Columbia University$$^*$$
 1. Zewei Xiong (2020-2025, co-supervised with Dr. Pak Sham)  
 
 
 ### <u>Master Students</u>
-1. Wenliang Wang (2022-2023)
+- Wenliang Wang (2022-2023)
 1. Hanning Chen (2020-2022)
 1. Yiqian Hu (2020-2021)
 
 
 ### <u>Undergraduate Students</u>
-1. Dickson Lim (2021-2021)
+-  Dickson Lim (2021-2021)
 1. Tsai Hor  Chan (2020-2021)
 1. Dailin Gan (2020-2021)
 1. Yuxi Cai (2020-2021)
 
 ### <u>Other</u>
-1. Baihua He (2020), visiting student from School of Mathematics and Statistics, Wuhan University
+-  Baihua He (2020), visiting student from School of Mathematics and Statistics, Wuhan University
 1. Xinyue Xu (2025), visiting student from School of Statistics and Data Science, Nankai University

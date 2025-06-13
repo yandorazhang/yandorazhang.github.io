@@ -16,7 +16,7 @@ The softwares developed by   my supervisees  or me  are listed as follows:
 * [**TWAS.GKF**](https://github.com/AnqiWang2021/TWAS.GKF):  TWAS-GKF: a novel method for causal gene identification in transcriptome-wide association studies with knockoff inference [[paper]](https://doi.org/10.1093/bioinformatics/btae502)
 
 
-* [**g-ldsc**](https://github.com/xzw20046/gldsc): Improved estimation of functional enrichment in SNP heritability using feasible generalized least squares [[paper]](https://doi.org/10.1016/j.ajhg.2023.12.007)
+* [**g-ldsc**](https://github.com/xzw20046/gldsc): Improved estimation of functional enrichment in SNP heritability using feasible generalized least squares [[paper]](https://www.sciencedirect.com/science/article/pii/S2666247724000113)
 
 
 
