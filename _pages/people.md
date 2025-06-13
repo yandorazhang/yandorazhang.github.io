@@ -39,21 +39,21 @@ author_profile: true
 
 - Peixin Tian (2020-2024, co-supervised with Dr. Zhonghua Liu), Data scientist at AIVI$$^*$$  
 - Anqi Wang (2020-2024, co-supervised with Dr. Zhonghua Liu), Postdoc at Columbia University$$^*$$
-1. Zewei Xiong (2020-2025, co-supervised with Dr. Pak Sham)  
+- Zewei Xiong (2020-2025, co-supervised with Dr. Pak Sham)  
 
 
 ### <u>Master Students</u>
 - Wenliang Wang (2022-2023)
-1. Hanning Chen (2020-2022)
-1. Yiqian Hu (2020-2021)
+- Hanning Chen (2020-2022)
+-  Yiqian Hu (2020-2021)
 
 
 ### <u>Undergraduate Students</u>
 -  Dickson Lim (2021-2021)
-1. Tsai Hor  Chan (2020-2021)
-1. Dailin Gan (2020-2021)
-1. Yuxi Cai (2020-2021)
+- Tsai Hor  Chan (2020-2021)
+-  Dailin Gan (2020-2021)
+- Yuxi Cai (2020-2021)
 
 ### <u>Other</u>
 -  Baihua He (2020), visiting student from School of Mathematics and Statistics, Wuhan University
-1. Xinyue Xu (2025), visiting student from School of Statistics and Data Science, Nankai University
+-  Xinyue Xu (2025), visiting student from School of Statistics and Data Science, Nankai University
