@@ -22,6 +22,9 @@ A full list of publications can be found at
 **<center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 2025</center>**
 
+1. Chan TH, __Zhang DY__, Yin G, Yu L. Feature Preserving Shrinkage on Bayesian Neural Networks via the R2D2 Prior. __IEEE Transactions on Pattern Analysis and Machine Intelligence__. 2025 May 23.
+[[link]](https://ieeexplore.ieee.org/document/11011679)
+
 
 1. Wang H, Li X, Li T,  Li Z, Sham PC, __Zhang YD__.
 MAAT: a new nonparametric Bayesian framework for incorporating multiple functional annotations in transcriptome-wide association studies. __Genome Biology__. 2025 Feb 4;26:21. 
