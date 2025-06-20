@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-The softwares developed by   my supervisees  or me  are listed as follows: 
+The softwares developed by   my lab  are listed as follows: 
 
 
 * [**MAAT**](https://github.com/wanghanmath/MAAT):  MAAT: a new nonparametric Bayesian framework for incorporating multiple functional annotations in transcriptome-wide association studies
