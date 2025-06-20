@@ -22,7 +22,7 @@ author_profile: true
 ($$^*$$First position after leaving the lab)
 
 ### <u>Postdoctoral Fellows</u>
--  Xin Wang (2021-2023),  Associated Professor at Northeastern University (China)$$^*$$
+-  Xin Wang (2021-2023),  Associate  Professor at Northeastern University (China)$$^*$$
 -  Han Wang (2021-2023), Associate Professor at China Agricultural University$$^*$$ 
 
 
@@ -55,5 +55,5 @@ author_profile: true
 - Yuxi Cai (2020-2021)
 
 ### <u>Other</u>
--  Baihua He (2020), visiting student from School of Mathematics and Statistics, Wuhan University
 -  Xinyue Xu (2025), visiting student from School of Statistics and Data Science, Nankai University
+-  Baihua He (2020), visiting student from School of Mathematics and Statistics, Wuhan University
