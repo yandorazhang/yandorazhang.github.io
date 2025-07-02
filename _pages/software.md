@@ -8,6 +8,10 @@ author_profile: true
 
 The softwares developed by   my lab  are listed as follows: 
 
+* [**TransferTWAS**](https://github.com/daoyuan-lai/TransferTWAS):  TransferTWAS: A transfer learning framework for cross-tissue transcriptome-wide association study
+ [[paper]](https://www-sciencedirect-com.eproxy.lib.hku.hk/science/article/pii/S0002929725002368?dgcid=author)
+
+
 
 * [**MAAT**](https://github.com/wanghanmath/MAAT):  MAAT: a new nonparametric Bayesian framework for incorporating multiple functional annotations in transcriptome-wide association studies
  [[paper]](https://doi.org/10.1186/s13059-025-03485-x)
