@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-##  Lab Members
+##  Current Members
 
 ### <u>PhD Students</u>
 - Yu Yun (2023-present)
@@ -18,7 +18,7 @@ author_profile: true
 
 
 
-## Lab Alumni
+## Alumni
 ($$^*$$First position after leaving the lab)
 
 ### <u>Postdoctoral Fellows</u>
@@ -45,15 +45,16 @@ author_profile: true
 ### <u>Master Students</u>
 - Wenliang Wang (2022-2023)
 - Hanning Chen (2020-2022)
--  Yiqian Hu (2020-2021)
+-  Yiqian Hu (RA, 2020-2021)
 
 
 ### <u>Undergraduate Students</u>
--  Dickson Lim (2021-2021)
-- Tsai Hor  Chan (2020-2021)
--  Dailin Gan (2020-2021)
-- Yuxi Cai (2020-2021)
+- Siqi Wu (06/2023 - 12/2023) 
+-  Dickson Lim (07/2021 - 10/2021)
+- Tsai Hor  Chan (06/2020 - 02/2021)
+-  Dailin Gan (12/2020 - 05/2021)
+- Yuxi Cai (06/2020 - 04/2021)
 
 ### <u>Other</u>
--  Xinyue Xu (2025), visiting student from School of Statistics and Data Science, Nankai University
--  Baihua He (2020), visiting student from School of Mathematics and Statistics, Wuhan University
+-  Xinyue Xu (02/2025 - 05/2025), visiting student from School of Statistics and Data Science, Nankai University
+-  Baihua He (01/2020 - 08/2020), visiting student from School of Mathematics and Statistics, Wuhan University
