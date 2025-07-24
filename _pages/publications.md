@@ -22,6 +22,11 @@ A full list of publications can be found at
 **<center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 2025</center>**
 
+1. Wang X, Wang M,  Wang H,  Yin G,  __Zhang YD__.  Drug repurposing for Alzheimer's disease integrating transcriptome-wide association study and biological network analysis.  __Journal of Alzheimer’s Disease__. 2025 July 22.
+[[link]](https://doi.org/10.1177/13872877251360009)
+
+
+
 1. Lai D,  Wang H, Gu T, Wu S, Liu D, Sham PC,  __Zhang YD__.  TransferTWAS: A transfer learning framework for cross-tissue transcriptome-wide association study
 . __The American Journal of Human Genetics__. 2025 June 30. 
 [[link]](https://www.sciencedirect.com/science/article/pii/S0002929725002368?dgcid=author)
