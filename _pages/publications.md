@@ -99,7 +99,7 @@ Frontiers in Genetics. 2022 Aug 19;13:906965.
 [[code]](https://github.com/mxxptian/TLMulti)
 
 
-1. Su W, He B, __Zhang YD__, Yin G.  [_C-index regression for recurrent event data._](https://www.sciencedirect.com/science/article/pii/S1551714422001136)
+1. Su W, He B, __Zhang YD__, Yin G.  [_C-index regression for recurrent event data._](https://pubmed.ncbi.nlm.nih.gov/35568377/)
 Contemporary Clinical Trials. 2022 Jul 1;118:106787.
 
 
@@ -121,7 +121,7 @@ Contemporary Clinical Trials. 2022 Jul 1;118:106787.
 -->
 **<center>2020</center>**
 
-1. Meisner A, Kundu P, __Zhang YD__, Lan LV, Kim S, Ghandwani D, Choudhury PP, Berndt SI, Freedman ND, Garcia-Closas M, Chatterjee N. [_Combined utility of 25 disease and risk factor polygenic risk scores for stratifying risk of all-cause mortality._](https://10.1016/j.ajhg.2020.07.002) The American Journal of Human Genetics. 2020 Sep 3;107(3):418-31.
+1. Meisner A, Kundu P, __Zhang YD__, Lan LV, Kim S, Ghandwani D, Choudhury PP, Berndt SI, Freedman ND, Garcia-Closas M, Chatterjee N. [_Combined utility of 25 disease and risk factor polygenic risk scores for stratifying risk of all-cause mortality._](https://pubmed.ncbi.nlm.nih.gov/32758451/) The American Journal of Human Genetics. 2020 Sep 3;107(3):418-31.
 
 
 1. Hong X, Zhang B, Liang L, __Zhang Y__, Ji Y, Wang G, ... & Wang X.   [_Postpartum plasma metabolomic profile among women with preeclampsia and preterm delivery: implications for long-term health._](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01741-4) BMC medicine. 2020 Dec;18:1-2.
