@@ -135,9 +135,8 @@ Nature communications. 2020 Jul 3;11(1):3353.
 2. Tubbs JD, **Zhang YD**, Sham PC.  [_Intermediate confounding in trio relationships: The importance of complete data in effect size estimation._](https://onlinelibrary.wiley.com/doi/abs/10.1002/gepi.22294) Genetic Epidemiology. 2020 Jun;44(4):395-9.
 
 
-4. Pal Choudhury P$$^*$$, Wilcox AN$$^*$$, Brook MN, **Zhang Y**, Ahearn T, Orr N, Coulson P, Schoemaker MJ, Jones ME, Gail MH, Swerdlow AJ,  Chatterjee N$$^\dagger$$,  Garcia-Closas M$$^\dagger$$.  [-Comparative validation of breast cancer risk prediction models and projections for future risk stratification.-](https://doi.org/10.1093/jnci/djz113)  
-JNCI: Journal of the National Cancer Institute. 2020 Mar 1;112(3):278-85.
-[[link]]
+4. Pal Choudhury P$$^*$$, Wilcox AN$$^*$$, Brook MN, **Zhang Y**, Ahearn T, Orr N, Coulson P, Schoemaker MJ, Jones ME, Gail MH, Swerdlow AJ,  Chatterjee N$$^\dagger$$,  Garcia-Closas M$$^\dagger$$.  [-Comparative validation of breast cancer risk prediction models and projections for future risk stratification.-](https://doi.org/10.1093/jnci/djz113)  JNCI: Journal of the National Cancer Institute. 2020 Mar 1;112(3):278-85.
+
 
 
 3. Ji Y, Azuine RE, **Zhang Y**, Hou W, Hong X, Wang G, Riley A, Pearson C, Zuckerman B, Wang X. [_Association of cord plasma biomarkers of in utero acetaminophen exposure with risk of attention-deficit/hyperactivity disorder and autism spectrum disorder in childhood._](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2753512)  JAMA psychiatry. 2020 Feb 1;77(2):180-9.
