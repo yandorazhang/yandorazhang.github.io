@@ -121,7 +121,7 @@ Contemporary Clinical Trials. 2022 Jul 1;118:106787.
 -->
 **<center>2020</center>**
 
-1. Meisner A, Kundu P, __Zhang YD__, Lan LV, Kim S, Ghandwani D, Choudhury PP, Berndt SI, Freedman ND, Garcia-Closas M, Chatterjee N. [_Combined utility of 25 disease and risk factor polygenic risk scores for stratifying risk of all-cause mortality._](https://www.sciencedirect.com/science/article/abs/pii/S0002929720302329) The American Journal of Human Genetics. 2020 Sep 3;107(3):418-31.
+1. Meisner A, Kundu P, __Zhang YD__, Lan LV, Kim S, Ghandwani D, Choudhury PP, Berndt SI, Freedman ND, Garcia-Closas M, Chatterjee N. [_Combined utility of 25 disease and risk factor polygenic risk scores for stratifying risk of all-cause mortality._](https://10.1016/j.ajhg.2020.07.002) The American Journal of Human Genetics. 2020 Sep 3;107(3):418-31.
 
 
 1. Hong X, Zhang B, Liang L, __Zhang Y__, Ji Y, Wang G, ... & Wang X.   [_Postpartum plasma metabolomic profile among women with preeclampsia and preterm delivery: implications for long-term health._](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01741-4) BMC medicine. 2020 Dec;18:1-2.
@@ -135,7 +135,7 @@ Nature communications. 2020 Jul 3;11(1):3353.
 2. Tubbs JD, **Zhang YD**, Sham PC.  [_Intermediate confounding in trio relationships: The importance of complete data in effect size estimation._](https://onlinelibrary.wiley.com/doi/abs/10.1002/gepi.22294) Genetic Epidemiology. 2020 Jun;44(4):395-9.
 
 
-4. Pal Choudhury P$$^*$$, Wilcox AN$$^*$$, Brook MN, **Zhang Y**, Ahearn T, Orr N, Coulson P, Schoemaker MJ, Jones ME, Gail MH, Swerdlow AJ,  Chatterjee N$$^\dagger$$,  Garcia-Closas M$$^\dagger$$.  [-Comparative validation of breast cancer risk prediction models and projections for future risk stratification.-](https://doi.org/10.1093/jnci/djz113)  JNCI: Journal of the National Cancer Institute. 2020 Mar 1;112(3):278-85.
+4. Pal Choudhury P$$^*$$, Wilcox AN$$^*$$, Brook MN, **Zhang Y**, Ahearn T, Orr N, Coulson P, Schoemaker MJ, Jones ME, Gail MH, Swerdlow AJ,  Chatterjee N$$^\dagger$$,  Garcia-Closas M$$^\dagger$$.  [_Comparative validation of breast cancer risk prediction models and projections for future risk stratification._](https://doi.org/10.1093/jnci/djz113)  JNCI: Journal of the National Cancer Institute. 2020 Mar 1;112(3):278-85.
 
 
 
@@ -149,7 +149,7 @@ Nature communications. 2020 Jul 3;11(1):3353.
  [[code]](https://github.com/yandorazhang/GENESIS)
 
 
-6. **Zhang Y**, Bondell HD. Zhang Y, Bondell HD. [_Variable selection via penalized credible regions with Dirichlet–Laplace global-local shrinkage priors._](https://projecteuclid.org/euclid.ba/1508551721) 
+6. **Zhang Y**, Bondell HD. [_Variable selection via penalized credible regions with Dirichlet–Laplace global-local shrinkage priors._](https://projecteuclid.org/euclid.ba/1508551721) 
 Bayesian Analysis. 2018 Sep;13(3): 823-844.
 
 
