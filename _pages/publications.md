@@ -50,7 +50,7 @@ Bioinformatics. 2024 Aug;40(8):btae502.
 
 
 
-1. Xiong Z,  Thach T, __Zhang YD$$^\dagger$$__, Sham PC$$^\dagger$$.  [_Improved estimation of functional enrichment in SNP heritability using feasible generalized least squares._](https://www.sciencedirect.com/science/article/pii/S2666247724000113)
+1. Xiong Z,  Thach T, __Zhang YD$$^\dagger$$__, Sham PC$$^\dagger$$.  [_Improved estimation of functional enrichment in SNP heritability using feasible generalized least squares._](https://10.1016/j.xhgg.2024.100272)
  Human Genetics and Genomics Advances. 2024 Apr 11;5(2).
 [[code]](https://github.com/xzw20046/gldsc)
 
