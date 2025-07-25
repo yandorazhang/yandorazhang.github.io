@@ -27,7 +27,7 @@ A full list of publications can be found at
 
 
 
-1. Lai D,  Wang H, Gu T, Wu S, Liu D, Sham PC,  __Zhang YD__.  [_TransferTWAS: A transfer learning framework for cross-tissue transcriptome-wide association study._](https://www.sciencedirect.com/science/article/pii/S0002929725002368?dgcid=author) The American Journal of Human Genetics. 2025 June 30. 
+1. Lai D,  Wang H, Gu T, Wu S, Liu D, Sham PC,  __Zhang YD__.  [_TransferTWAS: A transfer learning framework for cross-tissue transcriptome-wide association study._](https://doi.org/10.1016/j.ajhg.2025.06.006) The American Journal of Human Genetics. 2025 June 30. 
 [[code]](https://github.com/daoyuan-lai/TransferTWAS)
 
 
