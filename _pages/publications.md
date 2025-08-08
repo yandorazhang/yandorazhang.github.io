@@ -22,13 +22,16 @@ A full list of publications can be found at
 **<center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 2025</center>**
 
+1. Lai D,  Wang H, Gu T, Wu S, Liu D, Sham PC,  __Zhang YD__.  [_TransferTWAS: A transfer learning framework for cross-tissue transcriptome-wide association study._](https://doi.org/10.1016/j.ajhg.2025.06.006) The American Journal of Human Genetics. 2025 Aug 7;112(8):1936-47.
+[[code]](https://github.com/daoyuan-lai/TransferTWAS)
+
+
 1. Wang X, Wang M,  Wang H,  Yin G,  __Zhang YD__.  [_Drug repurposing for Alzheimer's disease integrating transcriptome-wide association study and biological network analysis._](https://doi.org/10.1177/13872877251360009)  Journal of Alzheimer’s Disease. 2025 July 22.
 
 
 
 
-1. Lai D,  Wang H, Gu T, Wu S, Liu D, Sham PC,  __Zhang YD__.  [_TransferTWAS: A transfer learning framework for cross-tissue transcriptome-wide association study._](https://doi.org/10.1016/j.ajhg.2025.06.006) The American Journal of Human Genetics. 2025 June 30. 
-[[code]](https://github.com/daoyuan-lai/TransferTWAS)
+
 
 
 
@@ -153,7 +156,7 @@ Nature communications. 2020 Jul 3;11(1):3353.
 
 
 6. **Zhang Y**, Bondell HD. [_Variable selection via penalized credible regions with Dirichlet–Laplace global-local shrinkage priors._](https://projecteuclid.org/euclid.ba/1508551721) 
-Bayesian Analysis. 2018 Sep;13(3): 823-844.
+Bayesian Analysis. 2018 Sep;13(3):823-44.
 
 
 
