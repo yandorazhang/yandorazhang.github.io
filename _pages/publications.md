@@ -46,13 +46,17 @@ A full list of publications can be found at
 Bioinformatics. 2024 Aug;40(8):btae502.
 [[code]](https://github.com/AnqiWang2021/TWAS.GKF)
 
-1.  Lai D,  Lim D,  Lu J,  Wang H,  Huang T,  __Zhang YD__.   [_Risk of myocarditis after three doses of COVID‐19 mRNA vaccines in the United States, 2020–2022: A self‐controlled case series study._](http://dx.doi.org/10.1111/jebm.12595)   Journal of Evidence‐Based Medicine. 2024 Mar;17(1):65-77.
-
-
 
 1. Xiong Z,  Thach T, __Zhang YD$$^\dagger$$__, Sham PC$$^\dagger$$.  [_Improved estimation of functional enrichment in SNP heritability using feasible generalized least squares._](https://pubmed.ncbi.nlm.nih.gov/38327050/)
  Human Genetics and Genomics Advances. 2024 Apr 11;5(2).
 [[code]](https://github.com/xzw20046/gldsc)
+
+
+1.  Lai D,  Lim D,  Lu J,  Wang H,  Huang T,  __Zhang YD__.   [_Risk of myocarditis after three doses of COVID‐19 mRNA vaccines in the United States, 2020–2022: A self‐controlled case series study._](http://dx.doi.org/10.1111/jebm.12595)   Journal of Evidence‐Based Medicine. 2024 Mar;17(1):65-77.
+
+
+
+
 
 1. Li X,  Sham P,  __Zhang YD__.  [_A Bayesian fine-mapping model using a continuous global-local shrinkage prior with applications in prostate cancer analysis._](https://doi.org/10.1016/j.ajhg.2023.12.007) The American Journal of Human Genetics. 2024 Feb 1;111(2):213-26.
 [[code]](https://github.com/xiangli428/h2D2)
@@ -99,33 +103,32 @@ Frontiers in Genetics. 2022 Aug 19;13:906965.
 [[code]](https://github.com/mxxptian/TLMulti)
 
 
-1. Su W, He B, __Zhang YD__, Yin G.  [_C-index regression for recurrent event data._](https://pubmed.ncbi.nlm.nih.gov/35568377/)
-Contemporary Clinical Trials. 2022 Jul 1;118:106787.
-
 
 
 1. Lai D, __Zhang YD__, Lu J.  [_Venous thromboembolism following two doses of COVID-19 mRNA vaccines in the US population, 2020–2022._](https://www.mdpi.com/2076-393X/10/8/1317) Vaccines. 2022 Aug 15;10(8):1317.
 
-
-
-
-
-1. Lai D, Cai Y, Chan TH, Gan D, Hurson AN, __Zhang YD__.  [_How to organise travel restrictions in the new future: lessons from the COVID-19 response in Hong Kong and Singapore._](https://doi.org/10.1136/bmjgh-2021-006975) BMJ global health. 2022 Feb 28;7(2).
+1. Su W, He B, __Zhang YD__, Yin G.  [_C-index regression for recurrent event data._](https://pubmed.ncbi.nlm.nih.gov/35568377/)
+Contemporary Clinical Trials. 2022 Jul 1;118:106787.
 
 
 
 
 1. __Zhang YD__, Naughton BP, Bondell HD, Reich BJ.  [_Bayesian regression using a prior on the model fit: The R2-D2 shrinkage prior._](https://doi.org/10.1080/01621459.2020.1825449) Journal of the American Statistical Association. 2022 Apr 3;117(538):862-74.
 [[code]](https://github.com/yandorazhang/R2D2)
+
+
+1. Lai D, Cai Y, Chan TH, Gan D, Hurson AN, __Zhang YD__.  [_How to organise travel restrictions in the new future: lessons from the COVID-19 response in Hong Kong and Singapore._](https://doi.org/10.1136/bmjgh-2021-006975) BMJ global health. 2022 Feb 28;7(2).
 <!---
 -->
 **<center>2020</center>**
 
+1. Hong X, Zhang B, Liang L, __Zhang Y__, Ji Y, Wang G, ... & Wang X.   [_Postpartum plasma metabolomic profile among women with preeclampsia and preterm delivery: implications for long-term health._](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01741-4) BMC medicine. 2020 Dec;18:1-2.
+ 
+
+
 1. Meisner A, Kundu P, __Zhang YD__, Lan LV, Kim S, Ghandwani D, Choudhury PP, Berndt SI, Freedman ND, Garcia-Closas M, Chatterjee N. [_Combined utility of 25 disease and risk factor polygenic risk scores for stratifying risk of all-cause mortality._](https://pubmed.ncbi.nlm.nih.gov/32758451/) The American Journal of Human Genetics. 2020 Sep 3;107(3):418-31.
 
 
-1. Hong X, Zhang B, Liang L, __Zhang Y__, Ji Y, Wang G, ... & Wang X.   [_Postpartum plasma metabolomic profile among women with preeclampsia and preterm delivery: implications for long-term health._](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01741-4) BMC medicine. 2020 Dec;18:1-2.
- 
 
 
 1.  __Zhang  YD__,   Hurson AN, Zhang H, ...,  Chatterjee N$$^\dagger$$,  Garcia-Closas M$$^\dagger$$. [_Assessment of polygenic architecture and risk prediction based on common variants across fourteen cancers._](https://www.nature.com/articles/s41467-020-16483-3)
