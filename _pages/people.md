@@ -22,7 +22,7 @@ author_profile: true
 ($$^*$$First position after leaving the lab. $$^#$$Current position.)
 
 ### <u>Postdoctoral Fellows</u>
--  Xin Wang (2021-2023),  Associate  Professor at Northeastern University (China)$$^#$$
+-  Xin Wang (2021-2023),  Associate  Professor at Northeastern University (China)$$^\#$$
 -  Han Wang (2021-2023), Associate Professor at China Agricultural University$$^*$$ 
 
 
@@ -45,7 +45,7 @@ author_profile: true
 -  Yilan Liang (RA, 2024.9 - 2025.3)
 - Wenliang Wang (2022-2023), Data Scientist at QuantumLife$$^*$$
 - Hanning Chen (2020-2022), PhD student at  University of Melbourne$$^*$$
--  Yiqian Hu (RA, 2020.9 - 2020.12), Quantitative Modeller  at Credit Suisse$$^#$$
+-  Yiqian Hu (RA, 2020.9 - 2020.12), Quantitative Modeller  at Credit Suisse$$^\#$$
 
 
 ### <u>Undergraduate Students</u>
