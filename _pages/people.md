@@ -19,7 +19,7 @@ author_profile: true
 
 
 ## Alumni
-($$^*$$First position after leaving the lab. $$^#$$Current position.)
+($$^*$$First position after leaving the lab. $$^\#$$Current position.)
 
 ### <u>Postdoctoral Fellows</u>
 -  Xin Wang (2021-2023),  Associate  Professor at Northeastern University (China)$$^\#$$
