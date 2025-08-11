@@ -42,22 +42,22 @@ author_profile: true
 
 
 ### <u>Master Students</u>
--  Yilan Liang (RA, 2024.9 - 2025.3)
+-  Yilan Liang (RA, 2024.9-2025.3)
 - Wenliang Wang (2022-2023), Data Scientist at QuantumLife$$^*$$
 - Hanning Chen (2020-2022), PhD student at  University of Melbourne$$^*$$
--  Yiqian Hu (RA, 2020.9 - 2020.12), Quantitative Modeller  at Credit Suisse$$^\#$$
+-  Yiqian Hu (RA, 2020.9-2020.12), Quantitative Modeller  at Credit Suisse$$^\#$$
 
 
 ### <u>Undergraduate Students</u>
-- Siqi Wu (RA, 2023.6 - 2023.12), graduate student at Columbia University$$^*$$
--  Dickson Lim (RA, 2021.7 - 2022.5), graduate student at University of Exeter$$^*$$
--  Dailin Gan (RA, 2020.12 - 2021.5), PhD student at  University of Notre Dame$$^*$$
-- Yuxi Cai (RA, 2020.6 - 2021.4), PhD student at University of Hong Kong$$^*$$
-- Howard Tsai Hor  Chan (RA, 2020.6 - 2021.2), PhD student at University of Hong Kong$$^*$$
+- Siqi Wu (RA, 2023.6-2023.12), graduate student at Columbia University$$^*$$
+-  Dickson Lim (RA, 2021.7-2022.5), graduate student at University of Exeter$$^*$$
+-  Dailin Gan (RA, 2020.12-2021.5), PhD student at  University of Notre Dame$$^*$$
+- Yuxi Cai (RA, 2020.6-2021.4), PhD student at University of Hong Kong$$^*$$
+- Howard Tsai Hor  Chan (RA, 2020.6-2021.2), PhD student at University of Hong Kong$$^*$$
 
 
 
 ### <u>Other</u>
--  Xinyue Xu (2025.2 - 2025.5), visiting student from School of Statistics and Data Science, Nankai University
--  Baihua He (2020.1 - 2020.8), visiting student from School of Mathematics and Statistics, Wuhan University
+-  Xinyue Xu (2025.2-2025.5), visiting student from School of Statistics and Data Science, Nankai University
+-  Baihua He (2020.1-2020.8), visiting student from School of Mathematics and Statistics, Wuhan University
 
