@@ -22,6 +22,8 @@ A full list of publications can be found at
 **<center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 2025</center>**
 
+1. Wang H, __Zhang YD__, Yin G. Effective sample size estimation based on the  concordance between p-value and posterior probability of the null hypothesis. 28th European Conference on Artificial Intelligence, accepted.
+
 1. Lai D,  Wang H, Gu T, Wu S, Liu D, Sham PC,  __Zhang YD__.  [_TransferTWAS: A transfer learning framework for cross-tissue transcriptome-wide association study._](https://doi.org/10.1016/j.ajhg.2025.06.006) The American Journal of Human Genetics. 2025 Aug 7;112(8):1936-47.
 [[code]](https://github.com/daoyuan-lai/TransferTWAS)
 
