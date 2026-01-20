@@ -10,10 +10,8 @@ author_profile: true
 ##  Current Members
 
 ### <u>PhD Students</u>
+- Liyu Cao (2025-present)
 - Yu Yun (2023-present)
-- Xiang Li (2021-present)
-- Daoyuan Lai (2020-present)
-
 
 
 
@@ -35,6 +33,10 @@ author_profile: true
 |Zewei Xiong (2020-2025, co-supervised with Dr. Pak Sham)| Lecturer at  Department of Mathematics, Hong Kong Baptist University| Exploring statistical methods for estimating heritability, functional enrichment and polygenic risk score using summary GWAS data in complex traits | 
 -->
 
+
+- Xiang Li (2021-2026)
+
+- Daoyuan Lai (2020-2025)
 
 - Zewei Xiong (2020-2025, co-supervised with Dr. Pak Sham), Lecturer at  Department of Mathematics, Hong Kong Baptist University$$^*$$
 - Anqi Wang (2020-2024), Postdoc at Columbia University$$^*$$
@@ -58,6 +60,7 @@ author_profile: true
 
 
 ### <u>Other</u>
--  Xinyue Xu (2025.2-2025.5), visiting student from School of Statistics and Data Science, Nankai University
--  Baihua He (2020.1-2020.8), visiting student from School of Mathematics and Statistics, Wuhan University
+- Yifan Kong (2026.1-present), visiting student from Huazhong University of Science and Technology, China
+-  Xinyue Xu (2025.2-2025.5), visiting student from School of Statistics and Data Science, Nankai University, China
+-  Baihua He (2020.1-2020.8), visiting student from School of Mathematics and Statistics, Wuhan University, China
 

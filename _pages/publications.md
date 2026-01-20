@@ -18,6 +18,11 @@ A full list of publications can be found at
 -->
 
 
+**<center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Preprint</center>**
+
+1. Li X, Xiong Z,  Sham P,  __Zhang YD__. [_MACHINE: a robust and scalable multi-ancestry fine-mapping method using a continuous global-local shrinkage prior_](https://www.medrxiv.org/content/10.1101/2025.09.28.25336857v2). medRxiv 2025. 
+
 
 **<center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 2025</center>**
