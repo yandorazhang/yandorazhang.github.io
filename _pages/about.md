@@ -25,7 +25,7 @@ and
  
  
  
-I received  my  B.S. in Statistics from  [Nankai University](https://www.nankai.edu.cn/) in 2011, and  Ph.D. in Statistics from [North Carolina State University](http://www.stat.ncsu.edu)  in 2016. After that, I worked as a postdoctoral fellow  at [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/), 
+I received  my  B.S. in Statistics from  [Nankai University](https://www.nankai.edu.cn/) in 2011, and  Ph.D. in Statistics from [North Carolina State University](https://statistics.sciences.ncsu.edu/)  in 2016. After that, I worked as a postdoctoral fellow  at [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/), 
   [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/) during 2016-2019.
    
 
