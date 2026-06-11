@@ -17,7 +17,8 @@ author_profile: true
 
 
 
-***
+<hr style="border: none; border-top: 2px solid #000; margin: 20px 0;">
+
 
 
 
@@ -66,7 +67,7 @@ author_profile: true
 
 
 
-### <u>Other</u>
+### <u>Visiting Scholoars</u>
 - Yifan Kong (2026.1-present), visiting student from Huazhong University of Science and Technology, China
 -  Xinyue Xu (2025.2-2025.5), visiting student from School of Statistics and Data Science, Nankai University, China
 -  Baihua He (2020.1-2020.8), visiting student from School of Mathematics and Statistics, Wuhan University, China
