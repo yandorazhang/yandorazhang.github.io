@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-##  <span style="color:blue">Current Members</span>
+## Current Members
 
 
 
@@ -17,13 +17,14 @@ author_profile: true
 
 
 
-<hr style="border: none; border-top: 2px solid #000; margin: 20px 0;">
+============================================================
 
 
 
 
 
-##  <span style="color:blue">Alumni</span>
+
+## Alumni
 
 ($$^*$$First position after leaving the lab. $$^\#$$Current position.)
 
