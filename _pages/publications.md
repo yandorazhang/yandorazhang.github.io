@@ -23,6 +23,8 @@ Preprint</center>**
 
 1. Li X, Xiong Z,  Sham P,  __Zhang YD__. [_MACHINE: a robust and scalable multi-ancestry fine-mapping method using a continuous global-local shrinkage prior_](https://www.medrxiv.org/content/10.1101/2025.09.28.25336857v2). medRxiv 2025. 
 
+1. Yun Y, Hao X, __Zhang YD__. [_Locally adaptive conformal prediction intervals for polygenic score-based phenotype prediction via residual normalization and data-driven stratification._](https://www.medrxiv.org/content/10.64898/2026.05.28.26354326v1) medRxiv. 2026:2026-05.
+
 
 **<center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 2025</center>**

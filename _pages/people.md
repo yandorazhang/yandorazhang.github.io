@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-##  Current Members
+#  Current Members
 
 ### <u>PhD Students</u>
 - Liyu Cao (2025-present)
@@ -16,7 +16,7 @@ author_profile: true
 
 
 
-## Alumni
+# Alumni
 ($$^*$$First position after leaving the lab. $$^\#$$Current position.)
 
 ### <u>Postdoctoral Fellows</u>
@@ -34,9 +34,9 @@ author_profile: true
 -->
 
 
-- Xiang Li (2021-2026)
+- Xiang Li (2021-2026), Postdoc at MD Anderson Cancer Center$$^*$$
 
-- Daoyuan Lai (2020-2025)
+- Daoyuan Lai (2020-2025), Postdoc at Columbia University$$^*$$
 
 - Zewei Xiong (2020-2025, co-supervised with Dr. Pak Sham), Lecturer at  Department of Mathematics, Hong Kong Baptist University$$^*$$
 - Anqi Wang (2020-2024), Postdoc at Columbia University$$^*$$
