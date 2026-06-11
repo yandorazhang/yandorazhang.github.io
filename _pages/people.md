@@ -1,13 +1,14 @@
 ---
 layout: archive
-title:  
+title: "People" 
 permalink: /people/
 author_profile: true
 ---
 
 
+##  <span style="color:blue">Current Members</span>
 
-#  Current Members
+
 
 ### <u>PhD Students</u>
 - Liyu Cao (2025-present)
@@ -16,7 +17,12 @@ author_profile: true
 
 
 
-# Alumni
+---
+
+
+
+##  <span style="color:blue">Alumni</span>
+
 ($$^*$$First position after leaving the lab. $$^\#$$Current position.)
 
 ### <u>Postdoctoral Fellows</u>
