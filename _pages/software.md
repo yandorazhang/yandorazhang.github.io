@@ -5,7 +5,6 @@ permalink: /software/
 author_profile: true
 ---
 
-
 The softwares developed by   my lab  are listed as follows: 
 
 * [**TransferTWAS**](https://github.com/daoyuan-lai/TransferTWAS):  TransferTWAS: A transfer learning framework for cross-tissue transcriptome-wide association study
