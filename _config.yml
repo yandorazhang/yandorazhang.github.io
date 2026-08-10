@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Yan Dora Zhang"
-description              : &description "Assistant Professor <br> The University of Hong Kong"
+description              : &description "Associate Professor <br> The University of Hong Kong"
 url                      : https://yandorazhang.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yandorazhang/yandorazhang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yan Dora Zhang"
   avatar           : "doraz.JPG"
-  bio              : "Assistant Professor <br> The University of Hong Kong"
+  bio              : "Associate Professor <br> The University of Hong Kong"
   location         :
   employer         :
   pubmed           :
